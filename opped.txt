@@ -1,1 +1,0 @@
-op = "https://discord.com/api/webhooks/1528366884913807380/tMFVFVNAFwApMjkJUzn8slI_E6_4I5ns7E6ovcNQYccEbn0V6IA6UEaYH3GNeQPJqSuR"
