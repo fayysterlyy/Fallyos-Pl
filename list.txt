@@ -1,1 +1,1 @@
-list = "https://discord.com/api/webhooks/1528369030698897478/jWUZgmmTkFIB2xqTV7LsK2yAYnlN8RTnuqIaMYfGxUbcGY9kSmXvpyDcwp58Loj9tEmU"
+
